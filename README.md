@@ -5,3 +5,5 @@ This repository includes my study notes of data science, categorized by language
 * SQL
 * Alteryx
 * Power BI
+* Tableau
+* Hive
