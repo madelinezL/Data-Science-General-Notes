@@ -8,5 +8,10 @@
   - Tableau packaged workbook (.twbx) <br>
 
 * Connect to data source
-  - import the datasets
+  - Import the dataset in Data Source
   - Drag the dimensions and measures to the worksheet
+
+* Join related data source
+  - Import the dataset and inner join various tabs in Data Source
+  - Drag the aimensions and measures to the worksheet
+  - Are able to tell some info based on the consolidated table
