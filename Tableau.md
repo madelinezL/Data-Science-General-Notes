@@ -7,3 +7,6 @@
   - Tableau data extract (.tde) - stores Tableau data as a filtered and aggregated extract (just stores the summary) <br>
   - Tableau packaged workbook (.twbx) <br>
 
+* Connect to data source
+  - import the datasets
+  - Drag the dimensions and measures to the worksheet
