@@ -7,3 +7,4 @@ This repository includes my study notes of data science, categorized by language
 * Power BI
 * Tableau
 * Hive
+* Excel
