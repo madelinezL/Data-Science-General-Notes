@@ -1,3 +1,3 @@
-*date* <br>/
+*date* <br/>
 ### Bold
 
