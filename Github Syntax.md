@@ -11,7 +11,3 @@ Press the &#8595; key to go down.
 
 - [ ] Task 1
 - [x] Task 2
-  - [x] Subtask 1 -> Subtask description
-  - [ ] Subtask 2 -> Another subtask description
-- [ ] Task 3
-j
