@@ -1,5 +1,6 @@
 *date* <br/>
 ##### Bold
+bold a __word__
 * bullet 
   - second bullet
 
