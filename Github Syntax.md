@@ -16,3 +16,8 @@ Press the &#8595; key to go down.
 ##### Task
 - [ ] Task 1
 - [x] Task 2
+
+##### Insert a picture
+<p align="center">
+  <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="300">
+</p>
