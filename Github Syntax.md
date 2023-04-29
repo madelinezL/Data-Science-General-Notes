@@ -19,5 +19,5 @@ Press the &#8595; key to go down.
 
 ##### Insert a picture
 <p align="center">
-  <img src="Financial Engineering/screenshots/return-variance.PNG" alt="Return and Variance" width="300">
+  <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="300">
 </p>
