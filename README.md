@@ -8,3 +8,6 @@ This repository includes my study notes of data science, categorized by language
 * Tableau
 * Hive
 * Excel
+* Javascript (Typescript)
+* HTML
+* CSS
