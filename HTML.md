@@ -17,4 +17,6 @@ source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
   Live output <br/>
 *This is my text.*
 * Nesting elements <br/>
-* 
+  ```<p>My cat is <strong>very</strong> grumpy.```</p>
+  Output <br/>
+  My cat is __very__ grumpy.
