@@ -22,5 +22,8 @@ Press the &#8595; key to go down.
   <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="300">
 </p>
 
-##### code block
+##### Code block
 ```sample```
+
+##### Avoid being eaten up of HTML code
+`<p>`
