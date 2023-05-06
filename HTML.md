@@ -12,9 +12,9 @@ source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
   * My cat is very grumpy is the conetnt
   * `</p>` is the closing tag
   * The whole part is the element
-* Editbale code <br/>
+* Code <br/>
      ``` <em> This is my text.</em>``` <br/>
-  Live output <br/>
+  Output <br/>
 *This is my text.*
 * Nesting elements <br/>
   ```<p>My cat is <strong>very</strong> grumpy.```</p>
