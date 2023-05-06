@@ -12,7 +12,7 @@ source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
   * My cat is very grumpy is the conetnt
   * `</p>` is the closing tag
   * The whole part is the element
-* Code <br/>
+  Code <br/>
      ``` <em> This is my text.</em>``` <br/>
   Output <br/>
 *This is my text.*
@@ -20,3 +20,13 @@ source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
   ```<p>My cat is <strong>very</strong> grumpy.```</p>
   Output <br/>
   My cat is __very__ grumpy.
+* Block versus inline elements <br/>
+  `</p>` is a block-level element. Each *p* element appears on a new line, with space above and below. <br/>
+  `<em>` is an inline element. Elements sit on the same line, with no space in between.
+* Void elements
+  * A void element is an element that doesn't have any content and doesn't have a closing tag
+  Code
+  ```<img
+  src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />```
+  Output
+  A firefox icon 
