@@ -27,3 +27,4 @@ source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
   * A void element is an element that doesn't have any content and doesn't have a closing tag <br/>
   <img
   src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
+* Attributes
