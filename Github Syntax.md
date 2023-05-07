@@ -32,4 +32,4 @@ Press the &#8595; key to go down.
 R<sub>a
 
 ##### Greek Symbols
-  
+&beta;
