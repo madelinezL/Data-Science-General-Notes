@@ -15,3 +15,7 @@
   - Import the dataset and inner join various tabs in Data Source
   - Drag the aimensions and measures to the worksheet
   - Are able to tell some info based on the consolidated table
+
+
+## Project Demos
+link: https://github.com/madelinezL/Project-Demos/tree/main/US%20LS%20Finance%20Performance%20%26%20Process%20Benchmarking
