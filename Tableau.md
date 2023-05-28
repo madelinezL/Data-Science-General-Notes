@@ -17,6 +17,6 @@
   - Are able to tell some info based on the consolidated table
 
 
-## Project Demos
+## Project Demo
 ### Life Science Account Scan Project <br>
 link: https://github.com/madelinezL/Project-Demos/tree/main/US%20LS%20Finance%20Performance%20%26%20Process%20Benchmarking
