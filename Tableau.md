@@ -16,6 +16,9 @@
   - Drag the aimensions and measures to the worksheet
   - Are able to tell some info based on the consolidated table
 
+*6/1/2023* <br>
+* How to add percentage
+  - Marks - Text - %
 
 ## Project Demo
 ### Life Science Account Scan Project <br>
