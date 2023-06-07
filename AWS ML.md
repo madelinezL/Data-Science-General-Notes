@@ -4,4 +4,4 @@
   - Bucket
   - Amazon S3 max object size is 5TB. 
   - no need to remember the S3 storage class
-  - 
+  - Glacier: no need to storage after xx days
