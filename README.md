@@ -16,3 +16,4 @@ This repository includes my study notes of data science, categorized by language
 
 * AWS Machine Learning Certificate
 * AWS Cloud Practitioner Certificate
+* Adobe Analytics
