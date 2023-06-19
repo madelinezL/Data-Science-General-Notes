@@ -6,3 +6,10 @@
   - You need to know more than who's coming to your site. You need to know why
   - What they're looking for and how one interaction will affect all the rest
   - Web analytics can tell us which products are selling well and which ones aren't. This can help drive inventory and even in manufacuring decisions
+* Report Suite Design
+  - Multi-Suite Tagging
+  - Virtual Report Suites (VRS)
+* Data Layer - JSON
+* Data Types
+  - Metrics: actual numbers
+  - Data Dimensions: text strings
