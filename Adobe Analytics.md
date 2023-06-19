@@ -1,1 +1,1 @@
-test
+Adobe Analytics is a powerful analytics package from Adobe which provides real-time digital marketing reports, analytics for websites, measuring the performance of websites, generating useful reports for marketing campaigns, etc.
