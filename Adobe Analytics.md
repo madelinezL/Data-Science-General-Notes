@@ -17,3 +17,5 @@
     - Traffic variable: non-persistent, automatically collected (i.e. page view, visit, vistor)
     - Conversion variable: persistent (i.e. product view, orders, revenue)
     - Events variable
+
+* Adobe Experience Cloud Debugger
