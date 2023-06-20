@@ -19,3 +19,4 @@
     - Events variable
 
 * Adobe Experience Cloud Debugger
+  - Metrics: visits, return visits, time
