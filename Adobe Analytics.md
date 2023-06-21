@@ -20,3 +20,11 @@
 
 * Adobe Experience Cloud Debugger
   - Metrics: visits, return visits, time
+* Adobe Launch
+  - Properties and Companies
+  - Adapters
+  - Environment
+  - Extensions
+  - Data elements
+  - Rules
+  - Publishing
