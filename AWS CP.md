@@ -8,3 +8,6 @@ https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
   - note: pw v2
   - MFA: Multi Factor Authentication --> password you know + security device you own
     - MFA devices options
+
+* AWS SDK: AWS Software Development Kit
+  - Enables you to access and manage AWS services programmatically
