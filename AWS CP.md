@@ -17,3 +17,5 @@ https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
   - Enables you to access and manage AWS services programmatically
 
 * AWS CouldShell
+
+* EC2 - Elastic Compute Cloud
