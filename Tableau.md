@@ -20,6 +20,12 @@
 * How to add percentage
   - Marks - Text - %
 
+*7/10/2023* <br>
+* How to make tiled container
+  - Create a new container
+  - Drag the previous ones into the new container - while hold shift
+  - The new container will be merged and all sub containers are tiled
+
 ## Project Demo
 ### Life Science Account Scan Project <br>
 link: https://github.com/madelinezL/Project-Demos/tree/main/US%20LS%20Finance%20Performance%20%26%20Process%20Benchmarking
