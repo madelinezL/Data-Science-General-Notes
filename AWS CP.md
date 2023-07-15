@@ -19,5 +19,17 @@ https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
 * AWS CouldShell
 
 * EC2 - Elastic Compute Cloud
+  - SSH: Secure Shell - SSH provides a secure way to access and manage instances (virtual servers) within the AWS infrastructure.
+  - EC2 Spot Instances
+    - can get a discount of up to 90% compared to On-demand
+    - most cost-efficient instances in AWS
+    - useful for workloads that are resilient to failure
+    - not suitable for critical jobs or databases
+  - EC2 Dedicated Hosts
+    - most expensive option
+  - EC2 Dedicated Instances
 
+* EC2 Instance Storage
+
+ 
 request exam recommendations - 30 mins extra 
