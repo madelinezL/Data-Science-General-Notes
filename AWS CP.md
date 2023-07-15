@@ -19,3 +19,5 @@ https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
 * AWS CouldShell
 
 * EC2 - Elastic Compute Cloud
+
+request exam recommendations - 30 mins extra 
