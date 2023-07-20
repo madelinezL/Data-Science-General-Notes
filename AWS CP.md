@@ -33,3 +33,7 @@ https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
 
  
 request exam recommendations - 30 mins extra 
+
+*7/20/2023* 
+## Bootcamp
+* No upfront expenses (similar as CapExs), have variable expenses (similar as OpExs)
