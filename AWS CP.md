@@ -20,7 +20,7 @@ https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
 
 * EC2 - Elastic Compute Cloud
   - SSH: Secure Shell - SSH provides a secure way to access and manage instances (virtual servers) within the AWS infrastructure.
-  - EC2 Spot Instances
+  - EC2 Spot Instances 90% cheaper
     - can get a discount of up to 90% compared to On-demand
     - most cost-efficient instances in AWS
     - useful for workloads that are resilient to failure
@@ -51,3 +51,10 @@ request exam recommendations - 30 mins extra
 * No upfront expenses (similar as CapExs), have variable expenses (similar as OpExs)
 * On-premises deployment (Private cloud deployment), on-premise --> local
 * High Latency --> longer response time (download, wait longer)
+* High available: 1 region
+* Disastor Recovery: need several regions
+
+### EC2
+* VM/EC2 Instance
+* Elastic Load Balancing: it does not add/remove instances, have different types from AWS
+* Auto Scaling group: will add/remove more instances, inform ELB when instances added/removed to distribute better, only 1 type
