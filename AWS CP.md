@@ -37,3 +37,15 @@ request exam recommendations - 30 mins extra
 *7/20/2023* 
 ## Bootcamp
 * No upfront expenses (similar as CapExs), have variable expenses (similar as OpExs)
+* On-premises deployment (Private cloud deployment), on-premise --> local
+* Three cloud computing deployment models
+  - Cloud
+  - On premises
+  - Hybrid
+* Six Benefits of cloud computing
+  - Variable expenses
+  - Cost optimization
+  - Capacity
+  - Economies of scale
+  - Speed and agility
+  - Global in minutes
