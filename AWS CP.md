@@ -36,8 +36,7 @@ request exam recommendations - 30 mins extra
 
 *7/20/2023* 
 ## Bootcamp
-* No upfront expenses (similar as CapExs), have variable expenses (similar as OpExs)
-* On-premises deployment (Private cloud deployment), on-premise --> local
+### Introduction
 * Three cloud computing deployment models
   - Cloud
   - On premises
@@ -49,3 +48,6 @@ request exam recommendations - 30 mins extra
   - Economies of scale
   - Speed and agility
   - Global in minutes
+* No upfront expenses (similar as CapExs), have variable expenses (similar as OpExs)
+* On-premises deployment (Private cloud deployment), on-premise --> local
+* High Latency --> longer response time (download, wait longer)
