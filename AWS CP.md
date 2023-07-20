@@ -39,7 +39,7 @@ request exam recommendations - 30 mins extra
 ### Introduction
 * Three cloud computing deployment models
   - Cloud
-  - On premises
+  - On premises (local)
   - Hybrid
 * Six Benefits of cloud computing
   - Variable expenses
@@ -54,7 +54,17 @@ request exam recommendations - 30 mins extra
 * High available: 1 region
 * Disastor Recovery: need several regions
 
-### EC2
+### Compute in the Cloud - EC2
 * VM/EC2 Instance
 * Elastic Load Balancing: it does not add/remove instances, have different types from AWS
-* Auto Scaling group: will add/remove more instances, inform ELB when instances added/removed to distribute better, only 1 type
+* Auto Scaling group: will add/remove more instances, inform ELB when instances added/removed to distribute better, only 1 type <br/>
+* SNS: Simple Notification Service - Microservices, the receiving component is not active, waiting for the push service
+* SQS: Simple Queue Service - Monolithic application, the receiving component is active, poll service, hold the message
+* Edge Location: piece of infrastructure Amazon uses to cache copies of content for faster delivery to users at any location
+* CDN: CloudFront, a global content delivery service, we have 400+ edge locations. We do not upload files in cloudfront, instead, we ask them where to fetch and deliver.
+* Global infrastructure: https://aws.amazon.com/about-aws/global-infrastructure/
+* Three ways to intercat with AWS services:
+  - CLI: command line interface
+  - API: programmatic access to cloud services
+  - Web UI: AWS management console
+* VPC is a regional component
