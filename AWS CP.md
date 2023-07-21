@@ -71,3 +71,5 @@ request exam recommendations - 30 mins extra
 * VPC is a regional component, we can have VPC in region but not edge location.
 * We have 31 regions globally, each region have 200+ services (S3, SQS, etc.)
 * DDos: Distributor Denial of Service - AWS Shield
+
+### Networking
