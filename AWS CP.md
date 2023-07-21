@@ -67,4 +67,4 @@ request exam recommendations - 30 mins extra
   - CLI: command line interface
   - API: programmatic access to cloud services
   - Web UI: AWS management console
-* VPC is a regional component
+* VPC is a regional component, we can have VPC in region but not edge location.
