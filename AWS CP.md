@@ -68,3 +68,4 @@ request exam recommendations - 30 mins extra
   - API: programmatic access to cloud services
   - Web UI: AWS management console
 * VPC is a regional component, we can have VPC in region but not edge location.
+* We have 31 regions globally, each region have 200+ services (S3, SQS, etc.) 
