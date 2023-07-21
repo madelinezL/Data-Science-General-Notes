@@ -61,6 +61,7 @@ request exam recommendations - 30 mins extra
 * SNS: Simple Notification Service - Microservices, the receiving component is not active, waiting for the push service
 * SQS: Simple Queue Service - Monolithic application, the receiving component is active, poll service, hold the message
 * Edge Location: piece of infrastructure Amazon uses to cache copies of content for faster delivery to users at any location
+  -Four services based on the edge location: R53, CloudFront, AWS Shield, Web Application Firewall
 * CDN: CloudFront, a global content delivery service, we have 400+ edge locations. We do not upload files in cloudfront, instead, we ask them where to fetch and deliver.
 * Global infrastructure: https://aws.amazon.com/about-aws/global-infrastructure/
 * Three ways to intercat with AWS services:
@@ -68,4 +69,5 @@ request exam recommendations - 30 mins extra
   - API: programmatic access to cloud services
   - Web UI: AWS management console
 * VPC is a regional component, we can have VPC in region but not edge location.
-* We have 31 regions globally, each region have 200+ services (S3, SQS, etc.) 
+* We have 31 regions globally, each region have 200+ services (S3, SQS, etc.)
+* DDos: Distributor Denial of Service - AWS Shield
