@@ -73,3 +73,6 @@ request exam recommendations - 30 mins extra
 * DDos: Distributor Denial of Service - AWS Shield
 
 ### Networking
+
+### Practice Questions
+1. 
