@@ -19,6 +19,8 @@
 *6/1/2023* <br>
 * How to add percentage
   - Marks - Text - %
+* How to change the decimal
+  - Format - Defult - Numbers   
 
 *7/10/2023* <br>
 * How to make tiled container
