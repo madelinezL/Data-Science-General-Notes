@@ -82,3 +82,5 @@ A. Network ACLs
 B. Security groups Most Voted (most voted)
 C. AWS WAF (correct?)
 D. Amazon GuardDuty
+
+aws.amazon.com/faqs/
