@@ -1,4 +1,6 @@
 https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
+aws.amazon.com/faqs/
+
 
 * Important Slides
   - Shared responsibility model diagram
@@ -76,11 +78,5 @@ request exam recommendations - 30 mins extra
 
 ### Practice Questions
 1. CloudFront - edge locations - low latency
-2. A company recently deployed an Amazon RDS instance in its VPC. The company needs to implement a stateful firewall to limit traffic to the private corporate network.
-Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?
-A. Network ACLs
-B. Security groups Most Voted (most voted)
-C. AWS WAF (correct?)
-D. Amazon GuardDuty
 
-aws.amazon.com/faqs/
+
