@@ -30,4 +30,4 @@
 
 ## Project Demo
 ### Life Science Account Scan Project <br>
-link: https://github.com/madelinezL/Project-Demos/tree/main/US%20LS%20Finance%20Performance%20%26%20Process%20Benchmarking
+link: https://github.com/madelinezL/Project-Demos/blob/main/Life%20Science%20Accounts%20Scan/about%20this%20project.md
