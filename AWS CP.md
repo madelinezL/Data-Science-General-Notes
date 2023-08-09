@@ -1,8 +1,5 @@
-### Earned the certificate on August, 2023.###
-[AWS Cloud Practitioner] (https://github.com/madelinezL/madelinezL.github.io/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
-
-https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
-aws.amazon.com/faqs/
+#### Earned the certificate on August, 2023
+[AWS Cloud Practitioner Certificate](https://pages.github.com/](https://github.com/madelinezL/madelinezL.github.io/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)) <br/><br/>
 
 
 * Important Slides
@@ -82,4 +79,7 @@ request exam recommendations - 30 mins extra
 ### Practice Questions
 1. CloudFront - edge locations - low latency
 
+https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
+
+aws.amazon.com/faqs/
 
