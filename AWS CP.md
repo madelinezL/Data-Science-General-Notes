@@ -1,5 +1,5 @@
-##Earned the certificate on August, 2023.##
-https://github.com/madelinezL/madelinezL.github.io/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf
+### Earned the certificate on August, 2023.###
+[AWS Cloud Practitioner] (https://github.com/madelinezL/madelinezL.github.io/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
 aws.amazon.com/faqs/
