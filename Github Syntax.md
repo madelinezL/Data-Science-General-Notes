@@ -49,3 +49,6 @@ R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>)
     - [Measuring Risk](#measuring-risk)
     - [Risk Components](#risk-components)
     - [Measuring Market Risk](#measuring-market-risk)
+
+##### How to insert link
+[AWS Cloud Practitioner Certificate](https://pages.github.com/](https://github.com/madelinezL/madelinezL.github.io/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf))
