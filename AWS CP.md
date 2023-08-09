@@ -1,3 +1,6 @@
+Earned the certificate on August, 2023. 
+
+
 https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
 aws.amazon.com/faqs/
 
