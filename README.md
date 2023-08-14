@@ -15,5 +15,5 @@ This repository includes my study notes of data science, categorized by language
   - CSS
 
 * AWS Machine Learning Certificate
-* AWS Cloud Practitioner Certificate
+* AWS Cloud Practitioner Certificate (earned on August 2023)
 * Adobe Analytics
