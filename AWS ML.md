@@ -15,3 +15,9 @@
 * Approaches of outliers
 - Artificial - delete
 - Natural - log (decrease the extremeness), replace in mean
+
+* General Steps for a machine learning project
+- Data Preparation
+  - Understand the data
+  - Data cleaning, eliminate/adjust the extreme data
+  - Correlation Matrix
