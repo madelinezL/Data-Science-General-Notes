@@ -16,8 +16,14 @@
 - Artificial - delete
 - Natural - log (decrease the extremeness), replace in mean
 
-* General Steps for a machine learning project
-- Data Preparation
-  - Understand the data
-  - Data cleaning, eliminate/adjust the extreme data
-  - Correlation Matrix
+##### General Steps for a machine learning project
+* Data Preprocessing
+  - Understand a business scenario and corresponding dataset by analyzing the data using descriptive statistics
+  - Use visualization tools to support this analysis:
+    - Scatter plots to spot correlations between features
+    - Box and whisker plots and histograms to understand the distribution of the data
+  - Use statistics tools to support previous analysis, such as a correlation matrix to quantify those relationships
+  - Based on the analysis conclusions, prepare a processed dataset for the model by:
+    - Dealing with outliers
+    - Dealing with missing values
+    - Cleaning the data
