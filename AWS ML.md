@@ -25,5 +25,5 @@
   - Use statistics tools to support previous analysis, such as a correlation matrix to quantify those relationships
   - Based on the analysis conclusions, prepare a processed dataset for the model by:
     - Dealing with outliers
-    - Dealing with missing values
+    - Dealing with missing values (remove/impute)
     - Cleaning the data
