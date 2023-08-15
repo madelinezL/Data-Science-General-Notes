@@ -11,3 +11,7 @@
   - Binary Classification: true or false
   - MultiClassification: e.g. predict which month people would like to purchase
   - Regression
+
+* Approaches of outliers
+- Artificial - delete
+- Natural - log (decrease the extremeness), replace in mean
