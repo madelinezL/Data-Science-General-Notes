@@ -27,3 +27,6 @@
     - Dealing with outliers
     - Dealing with missing values (remove/impute)
     - Cleaning the data
+
+* XGBoost
+  - Hyperparameter: your settings
