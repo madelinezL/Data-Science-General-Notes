@@ -30,5 +30,5 @@
 
 ----
 * XGBoost
-  - Hyperparameter: your settings
+  - Hyperparameter: your settings <br/>
 https://tutorialsdojo.com/amazon-sagemaker/
