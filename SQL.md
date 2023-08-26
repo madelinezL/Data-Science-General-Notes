@@ -1,7 +1,6 @@
 ## SQL <br>
 https://zhuanlan.zhihu.com/p/72223558?utm_id=0
 
-*7/25/23*
 ### 0. Create Tables 
 ```
 create table Student (sid varchar(10), sname varchar(10), sage datatime, ssex nvarchar(10)
@@ -41,4 +40,3 @@ insert into SC values('06' , '03' , 34);
 insert into SC values('07' , '02' , 89);
 insert into SC values('07' , '03' , 98);
 ```
-test
