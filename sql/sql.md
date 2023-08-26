@@ -1,4 +1,8 @@
-## SQL <br>
+
+## SQL - Data Science Certfiicate Program - Database Course materials <br>
+https://github.com/madelinezL/Data-Science-Certificate-Program-Notes/tree/main/Database%20Systems
+
+## SQL - study materials <br>
 https://zhuanlan.zhihu.com/p/72223558?utm_id=0
 
 ### 0. Create Tables 
