@@ -5,15 +5,12 @@ This repository includes my study notes of data science, categorized by language
   - Python <br/>
   - R
   - SQL
-  - Alteryx
-  - Power BI
   - Tableau
-  - Hive
   - Excel
   - Javascript (Typescript)
   - HTML
   - CSS
 
-* AWS Machine Learning Certificate (preparing)
+* AWS Machine Learning Certificate (earned on August 2023)
 * AWS Cloud Practitioner Certificate (earned on August 2023)
 * Adobe Analytics
