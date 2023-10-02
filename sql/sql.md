@@ -54,7 +54,8 @@ FROM
 (SELECT sid, score AS class2 FROM sc WHERE sc.cid = '02') AS t2
 WHERE t1.sid = t2.sid AND t1.class1 > t2.class2) 4
 ON Student.sid = r.sid;
+```
 
-### 2. 
+### 1. Retrieve the information and scores of students who have '01' course > '02' course
 
 
