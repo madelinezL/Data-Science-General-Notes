@@ -44,3 +44,17 @@ insert into SC values('06' , '03' , 34);
 insert into SC values('07' , '02' , 89);
 insert into SC values('07' , '03' , 98);
 ```
+
+### 1. Retrieve the information and scores of students who have '01' course > '02' course
+```
+SELECT & FROM Student RIGHT JOIN
+(SELECT t1.sid, class1, class2
+FROM
+(SELECT sid, score AS class1 FROM sc WHERE sc.cid = '01') AS t1,
+(SELECT sid, score AS class2 FROM sc WHERE sc.cid = '02') AS t2
+WHERE t1.sid = t2.sid AND t1.class1 > t2.class2) 4
+ON Student.sid = r.sid;
+
+### 2. 
+
+
