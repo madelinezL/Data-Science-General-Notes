@@ -52,7 +52,7 @@ SELECT * FROM Student RIGHT JOIN
 FROM
 (SELECT sid, score AS class1 FROM sc WHERE sc.cid = '01') AS t1,
 (SELECT sid, score AS class2 FROM sc WHERE sc.cid = '02') AS t2
-WHERE t1.sid = t2.sid AND t1.class1 > t2.class2) 4
+WHERE t1.sid = t2.sid AND t1.class1 > t2.class2) 
 ON Student.sid = r.sid;
 ```
 
