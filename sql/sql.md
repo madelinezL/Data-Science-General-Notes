@@ -47,7 +47,7 @@ insert into SC values('07' , '03' , 98);
 
 ### 1. Retrieve the information and scores of students who have '01' course > '02' course
 ```
-SELECT & FROM Student RIGHT JOIN
+SELECT * FROM Student RIGHT JOIN
 (SELECT t1.sid, class1, class2
 FROM
 (SELECT sid, score AS class1 FROM sc WHERE sc.cid = '01') AS t1,
