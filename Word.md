@@ -8,4 +8,4 @@
 #### Header
 * Layout - Breaks - Next Page
 * Select the header - Unselect the Link to Previous
-* Select the header - References - Select the section - Insert reference to: Paragraph text
+* Select the header - References - Select the section - Insert reference to: Paragraph text 
