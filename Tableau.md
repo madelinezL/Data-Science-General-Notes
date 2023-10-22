@@ -1,4 +1,5 @@
 ## Tableau
+https://www.linkedin.com/learning/tableau-essential-training-14959992/apply-the-power-of-tableau-2022-to-your-data?resume=false
 https://sdsclub.com/tableau-a-z-tips-and-resources
 
 *4/19/2023* <br>
