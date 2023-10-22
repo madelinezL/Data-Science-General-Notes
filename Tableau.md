@@ -3,7 +3,6 @@ https://www.linkedin.com/learning/tableau-essential-training-14959992/apply-the-
 https://deloittedevelopment.udemy.com/course/tableau-10/learn/lecture/5941068#overview <br>
 https://sdsclub.com/tableau-a-z-tips-and-resources
 
-*4/19/2023* <br>
 * Different Data Types <br>
   - Tableau workbook (.twb) - stores a visualization without source data <br>
   - Tableau data source (.tds) - stores server address, ps, and other info required to access a data source <br>
@@ -20,17 +19,19 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Drag the aimensions and measures to the worksheet
   - Are able to tell some info based on the consolidated table
 
-*6/1/2023* <br>
 * How to add percentage
   - Marks - Text - %
 * How to change the decimal
   - Format - Defult - Numbers   
 
-*7/10/2023* <br>
 * How to make tiled container
   - Create a new container
   - Drag the previous ones into the new container - while hold shift
   - The new container will be merged and all sub containers are tiled
+
+* How to calculate the field
+  - Analysis, calculate field
+
 
 ## Project Demo
 ### Life Science Account Scan Project <br>
