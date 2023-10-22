@@ -1,5 +1,5 @@
 ## Tableau
-https://www.linkedin.com/learning/tableau-essential-training-14959992/apply-the-power-of-tableau-2022-to-your-data?resume=false
+https://www.linkedin.com/learning/tableau-essential-training-14959992/apply-the-power-of-tableau-2022-to-your-data?resume=false <br>
 https://deloittedevelopment.udemy.com/course/tableau-10/learn/lecture/5941068#overview <br>
 https://sdsclub.com/tableau-a-z-tips-and-resources
 
