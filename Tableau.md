@@ -33,6 +33,7 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Analysis, calculate field
   - Can also create a calculated field on a shelf (press ctrl + enter)
 
+* Filter - wildcard
 
 ## Project Demo
 ### Life Science Account Scan Project <br>
