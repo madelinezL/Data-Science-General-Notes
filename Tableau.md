@@ -37,6 +37,10 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
 
 * Create parameter - use it for filtering data
 
+* Groups
+  - Select 2 observations, click group
+  - Add members to a group
+
 ## Project Demo
 ### Life Science Account Scan Project <br>
 link: https://github.com/madelinezL/Project-Demos/blob/main/Life%20Science%20Accounts%20Scan/about%20this%20project.md
