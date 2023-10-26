@@ -41,6 +41,10 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Select 2 observations, click group
   - Add members to a group
 
+* Map
+  - Change the measures to be dimensions
+  - Use magnitude as the size in Marks
+
 ## Project Demo
 ### Life Science Account Scan Project <br>
 link: https://github.com/madelinezL/Project-Demos/blob/main/Life%20Science%20Accounts%20Scan/about%20this%20project.md
