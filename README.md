@@ -15,7 +15,6 @@ This repository includes my study notes of data science, categorized by programm
 
 * Data Science Topics
   - Time Series <br/> <br/>
-
-* AWS Machine Learning Certificate (earned on August 2023)
-* AWS Cloud Practitioner Certificate (earned on August 2023)
+* AWS Machine Learning Certificate 
+* AWS Cloud Practitioner Certificate
 * Adobe Analytics
