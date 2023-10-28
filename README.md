@@ -5,11 +5,13 @@ This repository includes my study notes of data science, categorized by programm
   - Python <br/>
   - R
   - SQL
-  - Tableau
-  - Excel
   - Javascript (Typescript)
   - HTML
   - CSS
+
+* Visualization Tools
+  - Tableau
+  - PowerBI
 
 * Data Science Topics
   - Time Series <br/> <br/>
