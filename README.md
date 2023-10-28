@@ -1,5 +1,5 @@
 # Data-Science-General-Notes
-This repository includes my study notes of data science, categorized by programming languages and data science topics, as well as my study notes of the certificates. <br/>
+This repository includes my study notes of data science, categorized by programming languages, visualization tools and data science topics, as well as my study notes of the certificates. <br/>
 
 * Programming Language
   - Python <br/>
