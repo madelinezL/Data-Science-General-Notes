@@ -13,6 +13,6 @@
 ```print('{0} a word she can get what she {1} for.'.format('With', 'came'))```
 
 #### list comprehension
-```d = {i:i+1 for i in range(4)}```
-```g = {i:j for i,j in zip(range(1,6), 'abcde')}```
+```d = {i:i+1 for i in range(4)}``` <br/>
+```g = {i:j for i,j in zip(range(1,6), 'abcde')}```<br/>
 ```g = {i:j.upper() for i,j in zip(range(1,6),'abcde')}```
