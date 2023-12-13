@@ -45,6 +45,10 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Change the measures to be dimensions
   - Use magnitude as the size in Marks
 
+* Adjust the font size to avoid the hash issue
+  - Go to the Sheet
+  - Click Text, Edit the Label
+
 ## Project Demo
 ### Life Science Account Scan Project <br>
 link: https://github.com/madelinezL/Project-Demos/blob/main/Life%20Science%20Accounts%20Scan/about%20this%20project.md
