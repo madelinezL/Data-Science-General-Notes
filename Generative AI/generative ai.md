@@ -3,5 +3,6 @@ https://develop.deloitte.com/generative-ai-fluency
 * Definition: A type of AI that creates original content across various modalities (e.g. text, images, audio, code, etc.) that would have previously taken human skill and expertise to create
 * Foundation Models
 * LLM: Large Language Models
+* Prompt Engineering
 
 #### Generative AI Webinar
