@@ -4,5 +4,12 @@ https://develop.deloitte.com/generative-ai-fluency
 * Foundation Models
 * LLM: Large Language Models
 * Prompt Engineering
+* Use Cases
+  * Content Generation
+  * Question Answering
+  * Translation
+  * Personalized Avatars
+  * Document Summarization
+  * Named Entity Recognition
 
 #### Generative AI Webinar
