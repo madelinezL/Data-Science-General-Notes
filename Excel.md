@@ -15,7 +15,9 @@
 ### Group
 * Data - Group
 
-
-### Excel Header
+### Heading
 * Page Layout - Print Titles
 * Sheet - Page Setup, Rows to Repeat 
+
+### Header
+* View - Page Layout - Remove the header
