@@ -30,7 +30,13 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
   * Cloud Infrastructure
     * AWS, Azure, Google Cloud, Databricks, Snowflake, BigQuery
   * Training Data
+    * Image Data - LAION-5B dataset with over 5 million images and associated captions
+    * Text Data - books, code, academic writing, medical documents, subtitles, and Wiki
   * Foundation Models
+    * NLP: GPT, LLAMA, H3, Transformer XL, BRET
+    * Audio: Whisper
+    * CV: Florence, SAM, DALL-E, Stable Diffusion
+    * Code: Codex
   * Fine-tuned Models
   * Applications
 
