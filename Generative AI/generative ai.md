@@ -2,8 +2,9 @@ https://develop.deloitte.com/generative-ai-fluency <br>
 https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generative-AI-Dossier.aspx
 https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generative-AI-Demo-Videos.aspx
 
-### Generative AI Jumpstart
+### Gen AI Jumpstart
 * Definition: A type of AI that creates original content across various modalities (e.g. text, images, audio, code, etc.) that would have previously taken human skill and expertise to create
+* AI --> DS --> ML --> DL --> Gen AI
 * Foundation Models
 * LLM: Large Language Models
 * Prompt Engineering
@@ -18,8 +19,16 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
 * Proof of Concept (PoC)
   * It is a demonstration or evidence showing the feasibility or practicality of a particular idea, concept, or project. It is a way to validate that a certain concept or approach can be successfully implemented and will peroform as intended. The primary purpose of a PoC is to assess whether the proposed solution or innovation is technically viable and can meet the specified requirements.
 
-### Generative AI Fluency Part 1
+### Gen AI Fluency Part 1
 * Natural Language Processing
 * Computer Vision
   * Use AI and CS to enable computers to interpret and understand visual information, such as image processing, pattern recognition, object detection, image segmentation, feature extraction, 3D reconstruction, scene understanding, etc.
+ 
+* Five components of GenAI
+  * Hardware
+  * Cloud Infrastructure
+  * Training Data
+  * Foundation Models
+  * Fine-tuned Models
+  * Applications
 
