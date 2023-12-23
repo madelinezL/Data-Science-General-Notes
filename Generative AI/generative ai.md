@@ -26,7 +26,9 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
  
 * Five components of GenAI
   * Hardware
+    * GPUs, TPUs
   * Cloud Infrastructure
+    * AWS, Azure, Google Cloud, Databricks, Snowflake, BigQuery
   * Training Data
   * Foundation Models
   * Fine-tuned Models
