@@ -1,4 +1,7 @@
 https://develop.deloitte.com/generative-ai-fluency
+https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generative-AI-Dossier.aspx
+https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generative-AI-Demo-Videos.aspx
+
 ### Generative AI Jumpstart
 * Definition: A type of AI that creates original content across various modalities (e.g. text, images, audio, code, etc.) that would have previously taken human skill and expertise to create
 * Foundation Models
