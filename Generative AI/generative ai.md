@@ -1,4 +1,4 @@
-https://develop.deloitte.com/generative-ai-fluency
+https://develop.deloitte.com/generative-ai-fluency <br>
 https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generative-AI-Dossier.aspx
 https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generative-AI-Demo-Videos.aspx
 
