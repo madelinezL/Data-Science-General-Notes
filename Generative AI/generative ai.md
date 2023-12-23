@@ -18,3 +18,8 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
 * Proof of Concept (PoC)
   * It is a demonstration or evidence showing the feasibility or practicality of a particular idea, concept, or project. It is a way to validate that a certain concept or approach can be successfully implemented and will peroform as intended. The primary purpose of a PoC is to assess whether the proposed solution or innovation is technically viable and can meet the specified requirements.
 
+### Generative AI Fluency Part 1
+* Natural Language Processing
+* Computer Vision
+  * Use AI and CS to enable computers to interpret and understand visual information, such as image processing, pattern recognition, object detection, image segmentation, feature extraction, 3D reconstruction, scene understanding, etc.
+
