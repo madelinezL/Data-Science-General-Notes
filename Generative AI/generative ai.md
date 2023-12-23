@@ -41,5 +41,5 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
       * Traditional model - predicts the answer for the new unseen document out of list of known classes
       * Foundation model - uses the first half of the document to predict the second half of the document
   * Fine-tuned Models
-  * Applications
+  * Applications/Life Cycle of a project
 
