@@ -47,6 +47,7 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
   * CNN - image processing
   * Transformer - sequential data, language translation, text classification, summarization, speech recognition, time series forecasting
   * RNN - NLP, speech recognition, time series forecasting, sentiment analysis, and music generation
+  * GNN - image, transformer
 * Natural Language Processing
 * Computer Vision
   * Use AI and CS to enable computers to interpret and understand visual information, such as image processing, pattern recognition, object detection, image segmentation, feature extraction, 3D reconstruction, scene understanding, etc.
