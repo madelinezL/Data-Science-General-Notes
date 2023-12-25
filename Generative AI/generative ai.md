@@ -44,3 +44,12 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
   * Applications/Life Cycle of a project
 
 ### Gen AI Fluency Part 2 - Generative NLP and CV - A Deeper Look
+* Neural Network Models
+  * Overall
+    * Input layer, hidden layer, output layer
+    * parameters - actual numbers, weights
+  * CNN - image processing
+  * Transformer - sequential data, language translation, text classification, summarization, speech recognition, time series forecasting
+  * RNN - NLP, speech recognition, time series forecasting, sentiment analysis, and music generation
+ * NLP
+ 
