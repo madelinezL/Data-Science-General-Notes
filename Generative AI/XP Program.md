@@ -1,1 +1,2 @@
-Pre training
+### AI Fundamentals
+* Definition
