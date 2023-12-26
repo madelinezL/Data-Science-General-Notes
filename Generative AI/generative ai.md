@@ -59,3 +59,8 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
   * Fairness - AI reflects human biases
   * Privacy & IP - web-scraped datasets may reveal private data, in addition to IP concerns
   * Incorrect & Harmful - incorrect, misleading, or harmful outcomes
+ 
+ * Limitations
+   * Ignorance - models rely on training data, limited knowledge
+   * Compute - hardware limitations and high costs
+   * Intent - models are statistical and lack intentionality, some concepts can be easily imsinterpreted by 1) understanding humor, 2) detecting sarcasm, and 3) responding to emotional language
