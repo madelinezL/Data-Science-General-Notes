@@ -54,3 +54,8 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
   * Examples: Generation, Style Transfer, Image Enhancement
   * Diffusion Models: a mathematical model used to explain and predict the spread of info, behavior, or phenomena through a population over time. It is trained to generate a denoised or realistic image from a noisy starting image.
  
+### Gen AI Fluency Part 3 - Generative AI and Beyond
+* Risks
+  * Fairness - AI reflects human biases
+  * Privacy & IP - web-scraped datasets may reveal private data, in addition to IP concerns
+  * Incorrect & Harmful - incorrect, misleading, or harmful outcomes
