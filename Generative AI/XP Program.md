@@ -1,3 +1,5 @@
+https://resources.deloitte.com/sites/global/Services/ai/aiacademy/Pages/Experienced-Professionals-Program.aspx
+
 ### AI Fundamentals
 * AI capabilities and technologies
   * Predictive analytics
