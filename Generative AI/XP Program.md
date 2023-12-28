@@ -27,3 +27,14 @@ https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learning
     * Anomaly detection / insights and pattern recognition - determine irregularities and unanticipated events, enable issue identification, and suggest possible resolution options
     * Smart routing - issue alerts and previsely route engine parts / materials to the exact location
     * Impact - predict the likelihood of engine failure and precisely identify issue location can increase safety, improve quality, etc.
+* Major Challenges associated with AI
+  * Implementation challenges
+    * Given the relatively new nature of AI technologies and the low levels of experience with them, it is considered as a top challenge.
+  * Data issues
+    * Data privacy, accessing, and integrating data
+  * Cost of AI technologies and solution development
+    * Cost of hardware, software, and people to develop, test and refine
+  * Lack of skills
+  * Integrating AI into a knowledge worker's responsibilities
+  * Challenges in measuring and proving business value
+  * Inability to generalize a specific AI solution to another problem
