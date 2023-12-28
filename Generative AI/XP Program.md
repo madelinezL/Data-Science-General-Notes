@@ -1,4 +1,6 @@
-https://resources.deloitte.com/sites/global/Services/ai/aiacademy/Pages/Experienced-Professionals-Program.aspx
+https://resources.deloitte.com/sites/global/Services/ai/aiacademy/Pages/Experienced-Professionals-Program.aspx <br>
+https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learningeventdetail/cours000000000859330?regId=regdw000000070301634 <br>
+https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learningeventdetail/cours000000001040927?regId=regdw000000070688119
 
 ### AI Fundamentals
 * AI capabilities and technologies
