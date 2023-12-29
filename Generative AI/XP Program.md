@@ -38,3 +38,34 @@ https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learning
   * Integrating AI into a knowledge worker's responsibilities
   * Challenges in measuring and proving business value
   * Inability to generalize a specific AI solution to another problem
+
+### Transformative Potential of AI
+* AI Use Cases by Industry
+  * Consumer: automotive, consumer products, retail, transportation, hospitality, and services sectors
+  * ER&I: energy, resources * industrials - oil and gas, chemicals, power, utilities and renewables, industrial products and construction sectors
+  * FSI: financial service industry - banking and capital markets, insurance, investment management, and real estate
+  * GPS: government and public services - federal, state, and local levels
+  * LSHC: life sciences and healh care
+  * TMT: technology, media & telecommunications
+
+* AI Value Levers 
+  * Speed to execution
+  * Cost reduction
+  * Reduced complexity
+  * Transformed engagement
+  * Fueled innovation
+  * Fortified trust
+ 
+* AI Capabilities
+  * AI strategy
+  * Cloud ML
+  * Edge AI: build capabilities for streaming data ecosystems
+  * Intelligent Automation
+  * Data Ops
+  * Vision AI
+  * Conversational AI
+  * Trustworthy AI: help clients responsibility harness the power of AI
+  * Cyber AI: proactively monitor, detect, and respond to cyber threats leveraging AI
+  * Digital twins
+  * Virtual worlds
+  * Algorithmic assurance
