@@ -41,9 +41,9 @@ https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learning
 
 ### Transformative Potential of AI
 * AI Use Cases by Industry
-  * Consumer: automotive, consumer products, retail, transportation, hospitality, and services sectors
-  * ER&I: energy, resources * industrials - oil and gas, chemicals, power, utilities and renewables, industrial products and construction sectors
-  * FSI: financial service industry - banking and capital markets, insurance, investment management, and real estate
+  * __Consumer__: automotive, consumer products, retail, transportation, hospitality, and services sectors
+  * __ER&I__: energy, resources * industrials - oil and gas, chemicals, power, utilities and renewables, industrial products and construction sectors
+  * __FSI__: financial service industry - banking and capital markets, insurance, investment management, and real estate
     * Detect suspicious transactions, identify suspicious patterns, flag consumer transaction fraud
     * Use conversational AI solutions, e.g. chatbots and virtual assistants
     * Automated the underwriting process, identify different categories of risk and simplify risk assessments
@@ -51,9 +51,9 @@ https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learning
       * Help lenders, credit card companies, and borrower's make more informed choices
       * ML and AI can automatically assess a borrower's creditworthiness and can support the loan mgmt process
       * AI can enable app-based online platforms for mortgage loans, analyze borrower's financial information and recommend loan options from multiple lenders
-  * GPS: government and public services - federal, state, and local levels
-  * LSHC: life sciences and healh care
-  * TMT: technology, media & telecommunications
+  * __GPS__: government and public services - federal, state, and local levels
+  * __LSHC__: life sciences and healh care
+  * __TMT__: technology, media & telecommunications
 
 * AI Value Levers 
   * Speed to execution
