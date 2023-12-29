@@ -54,6 +54,9 @@ https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learning
   * __GPS__: government and public services - federal, state, and local levels
   * __LSHC__: life sciences and healh care
   * __TMT__: technology, media & telecommunications
+    * Detect fake media content
+    * Direct consumer engagement
+    * Analyze trends and streamline operations
 
 * AI Value Levers 
   * Speed to execution
@@ -76,3 +79,6 @@ https://sabacloud.deloitteresources.com/Saba/Web_spf/E103PRD0001/app/me/learning
   * Digital twins
   * Virtual worlds
   * Algorithmic assurance
+
+* AI Technology Enablers
+  * Deep Learning: Compared to traditional ML, deep learning implementation requires huge amounts of data, large amounts of processing powers (e.g. GPUs), and more time to train. For instance, GPT3 has 175 billion parameters and would require 355 years to train on standard high performance computing technology available in data-centers today.
