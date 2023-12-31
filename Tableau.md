@@ -23,6 +23,14 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Drag the aimensions and measures to the worksheet
   - Are able to tell some info based on the consolidated table
 
+* Tableau data types
+  - Dimensions: fields that contain qualitative and descriptive values, such as names, IDs, dates, or geographic data
+  - Measures: fields that contain quantitative values that can be aggregated using functions, such as sum and avg
+
+* Approaches related to data
+  - Create hierarchy
+  - Group folder
+
 ### Tableau Topics
 * How to calculate the field
   - Analysis, calculate field
