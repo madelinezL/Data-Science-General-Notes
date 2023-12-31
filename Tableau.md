@@ -11,6 +11,8 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Tableau data extract (.tde) - stores Tableau data as a filtered and aggregated extract (just stores the summary) <br>
   - Tableau packaged workbook (.twbx) <br>
 
+### Tableau Concepts & Terminology
+
 ### Tableau Data 
 * Connect to data source
   - Import the dataset in Data Source
