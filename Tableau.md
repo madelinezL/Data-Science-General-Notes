@@ -3,6 +3,7 @@ https://www.linkedin.com/learning/tableau-essential-training-14959992/apply-the-
 https://deloittedevelopment.udemy.com/course/tableau-10/learn/lecture/5941068#overview <br>
 https://sdsclub.com/tableau-a-z-tips-and-resources
 
+### Tableau Theory
 * Different Data Types <br>
   - Tableau workbook (.twb) - stores a visualization without source data <br>
   - Tableau data source (.tds) - stores server address, ps, and other info required to access a data source <br>
@@ -10,6 +11,7 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Tableau data extract (.tde) - stores Tableau data as a filtered and aggregated extract (just stores the summary) <br>
   - Tableau packaged workbook (.twbx) <br>
 
+### Tableau Data 
 * Connect to data source
   - Import the dataset in Data Source
   - Drag the dimensions and measures to the worksheet
@@ -19,6 +21,21 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Drag the aimensions and measures to the worksheet
   - Are able to tell some info based on the consolidated table
 
+### Tableau Topics
+* How to calculate the field
+  - Analysis, calculate field
+  - Can also create a calculated field on a shelf (press ctrl + enter)
+
+* Filter - wildcard, condition, top
+
+* Create parameter - use it for filtering data
+
+* Map
+  - Change the measures to be dimensions
+  - Use magnitude as the size in Marks
+
+
+### Tableau Tips
 * How to add percentage
   - Marks - Text - %
 * How to change the decimal
@@ -29,25 +46,13 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Drag the previous ones into the new container - while hold shift
   - The new container will be merged and all sub containers are tiled
 
-* How to calculate the field
-  - Analysis, calculate field
-  - Can also create a calculated field on a shelf (press ctrl + enter)
-
-* Filter - wildcard, condition, top
-
-* Create parameter - use it for filtering data
+* Adjust the font size to avoid the hash issue
+  - Go to the Sheet
+  - Click Text, Edit the Label
 
 * Groups
   - Select 2 observations, click group
   - Add members to a group
-
-* Map
-  - Change the measures to be dimensions
-  - Use magnitude as the size in Marks
-
-* Adjust the font size to avoid the hash issue
-  - Go to the Sheet
-  - Click Text, Edit the Label
 
 ## Project Demo
 ### Life Science Account Scan Project <br>
