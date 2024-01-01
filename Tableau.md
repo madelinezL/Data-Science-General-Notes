@@ -3,15 +3,13 @@ https://www.linkedin.com/learning/tableau-essential-training-14959992/apply-the-
 https://deloittedevelopment.udemy.com/course/tableau-10/learn/lecture/5941068#overview <br>
 https://sdsclub.com/tableau-a-z-tips-and-resources
 
-### Tableau Theory
+### Tableau Concepts & Terminology
 * Different Data Types <br>
   - Tableau workbook (.twb) - stores a visualization without source data <br>
   - Tableau data source (.tds) - stores server address, ps, and other info required to access a data source <br>
   - Tableau bookmark (.tbm) - stores a connection to a worksheet in another Tableau workbook <br>
   - Tableau data extract (.tde) - stores Tableau data as a filtered and aggregated extract (just stores the summary) <br>
   - Tableau packaged workbook (.twbx) <br>
-
-### Tableau Concepts & Terminology
 
 ### Tableau Data 
 * Connect to data source
@@ -31,8 +29,9 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Create hierarchy
   - Group folder
 
-### Tableau Topics
+### Tableau Basics
 * How to calculate the field
+  - Left pane, drop down, calculate the field
   - Analysis, calculate field
   - Can also create a calculated field on a shelf (press ctrl + enter)
 
@@ -43,7 +42,6 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
 * Map
   - Change the measures to be dimensions
   - Use magnitude as the size in Marks
-
 
 ### Tableau Tips
 * How to add percentage
