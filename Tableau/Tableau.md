@@ -43,6 +43,11 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Change the measures to be dimensions
   - Use magnitude as the size in Marks
 
+### Tableau Functions
+* Count vs CountD
+  - Count
+  - CountD means Count distinct
+
 ### Tableau Tips
 * How to add percentage
   - Marks - Text - %
