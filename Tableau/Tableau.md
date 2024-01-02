@@ -30,7 +30,7 @@ https://sdsclub.com/tableau-a-z-tips-and-resources
   - Group folder
 
 ### Tableau Basics
-* How to calculate the field
+* How to __calculate the field__
   - Left pane, drop down, calculate the field
   - Analysis, calculate field
   - Can also create a calculated field on a shelf (press ctrl + enter)
