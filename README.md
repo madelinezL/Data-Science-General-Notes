@@ -15,6 +15,8 @@ This repository includes my study notes of data science, categorized by programm
 
 * Data Science Topics
   - Time Series <br/> <br/>
+  - Natural Language Processing <br/>
+  
 * AWS Machine Learning Certificate 
 * AWS Cloud Practitioner Certificate
 * Adobe Analytics
