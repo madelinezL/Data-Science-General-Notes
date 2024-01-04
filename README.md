@@ -14,7 +14,7 @@ This repository includes my study notes of data science, categorized by programm
   - PowerBI
 
 * Data Science Topics
-  - Time Series <br/> <br/>
+  - Time Series <br/>
   - Natural Language Processing <br/>
   
 * AWS Machine Learning Certificate 
