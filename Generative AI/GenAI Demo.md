@@ -1,1 +1,2 @@
-#### GenAI Studio
+### GenAI Studio
+#### Marketing Content Designer
