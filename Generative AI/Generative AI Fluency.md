@@ -69,3 +69,4 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
 * Definition: the porcess of designing and refining natural language text prompts - or inputs (e.g. questions) - for use with GenAI models by selecting input formats and relevant data, and fine-tuning language and structure to produce desired outputs (i.e. its responses)
 * Strategies and approaches for prompting models
 * Applications and use cases
+* Temperature: Temperature is a parameter in text generation models that controls the randomness of the output, with lower values producing more focused responses and higher values leading to more diverse, creative outputs.
