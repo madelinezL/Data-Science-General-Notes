@@ -65,7 +65,8 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
    * Compute - hardware limitations and high costs
    * Intent - models are statistical and lack intentionality, some concepts can be easily imsinterpreted by 1) understanding humor, 2) detecting sarcasm, and 3) responding to emotional language
 
-### Prompt Engineering 
+### Prompt Engineering
+https://github.com/brexhq/prompt-engineering <br/>
 * Definition: the porcess of designing and refining natural language text prompts - or inputs (e.g. questions) - for use with GenAI models by selecting input formats and relevant data, and fine-tuning language and structure to produce desired outputs (i.e. its responses)
 * Terms
   * Temperature: Temperature is a parameter in text generation models that controls the randomness of the output, with lower values producing more focused responses and higher values leading to more diverse, creative outputs.
