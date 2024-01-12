@@ -76,3 +76,4 @@ https://resources.deloitte.com/sites/global/Services/generative-ai/Pages/Generat
     * a setting where the system is given only a very small number of supervised examples
   * Text classification: topic labeling, sentiment analysis, named entity recognition, and natural language inference
   * Text generation: translation, text summarization, and open-domain question answering
+* Designing the Prompt (Prompt Engineering)
