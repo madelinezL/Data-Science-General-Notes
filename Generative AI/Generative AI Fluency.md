@@ -83,4 +83,5 @@ https://github.com/brexhq/prompt-engineering <br/>
   * Content
   * Expert Persona
   * Task
-  * Output
+  * Output <br/>
+[C]ontext: As a project manager in a digital marketing agency, [T]ask: could you provide a detailed plan on how to execute a successful social media campaign for a new product launch? [E]xpert Persona: Your expertise in creating engaging content, identifying the right platforms and understanding analytics to measure success should be evident in the plan. [O]utput: This plan should include key tasks, recommended platforms, content creation strategies, scheduling and performance tracking methods."
