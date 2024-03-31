@@ -79,3 +79,8 @@ https://github.com/brexhq/prompt-engineering <br/>
   * Text classification: topic labeling, sentiment analysis, named entity recognition, and natural language inference
   * Text generation: translation, text summarization, and open-domain question answering
 * Designing the Prompt (Prompt Engineering)
+* Prompt Component
+  * Content
+  * Expert Persona
+  * Task
+  * Output
