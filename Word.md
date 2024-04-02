@@ -9,3 +9,7 @@
 * Layout - Breaks - Next Page
 * Select the header - Unselect the Link to Previous
 * Select the header - References - Select the section - Insert reference to: Paragraph text 
+
+*4/1/2024*
+#### Author Issue - all comments show as author
+* File > Options > Trust Center > Trust Center Settings > Privacy Options
