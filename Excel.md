@@ -21,3 +21,6 @@
 
 ### Header
 * View - Page Layout - Remove the header
+
+### Index Match
+* INDEX('Lookup value tab'!$A$1:$Z$100, MATCH('Current tab - not necessary for the tab'$A2, 'Lookup value tab'!$A$1:$A$20,0), MATCH('Current tab'B$1, 'Lookup value tab'!$A$1:$Z$1,0)
